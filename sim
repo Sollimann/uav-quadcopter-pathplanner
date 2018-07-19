@@ -1,0 +1,3 @@
+#!/bin/bash
+source devel/setup.bash
+rosrun hector_quadrotor_reference refPub _obsAdr:="/home/kristoffer/uavWs/obstacles_task3.txt" _refAdr:="/home/kristoffer/uavWs/path7.txt"

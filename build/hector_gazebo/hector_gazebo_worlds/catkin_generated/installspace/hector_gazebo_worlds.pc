@@ -1,0 +1,8 @@
+prefix=/home/kristoffer/uavWs/install
+
+Name: hector_gazebo_worlds
+Description: Description of hector_gazebo_worlds
+Version: 0.3.8
+Cflags: 
+Libs: -L/home/kristoffer/uavWs/install/lib 
+Requires: 

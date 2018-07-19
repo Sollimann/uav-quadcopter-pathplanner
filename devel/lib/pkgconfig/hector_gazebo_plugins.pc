@@ -1,0 +1,8 @@
+prefix=/home/kristoffer/uavWs/devel
+
+Name: hector_gazebo_plugins
+Description: Description of hector_gazebo_plugins
+Version: 0.3.8
+Cflags: -I/home/kristoffer/uavWs/devel/include -I/home/kristoffer/uavWs/src/hector_gazebo/hector_gazebo_plugins/include
+Libs: -L/home/kristoffer/uavWs/devel/lib 
+Requires: roscpp std_msgs geometry_msgs nav_msgs tf message_runtime

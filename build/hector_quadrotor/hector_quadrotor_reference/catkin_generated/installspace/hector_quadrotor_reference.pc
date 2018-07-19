@@ -1,0 +1,8 @@
+prefix=/home/kristoffer/uavWs/install
+
+Name: hector_quadrotor_reference
+Description: Description of hector_quadrotor_reference
+Version: 0.0.0
+Cflags: -I/home/kristoffer/uavWs/install/include
+Libs: -L/home/kristoffer/uavWs/install/lib 
+Requires: roscpp std_msgs geometry_msgs gazebo_msgs std_srvs

@@ -1,0 +1,11 @@
+# generated from genmsg/cmake/pkg-genmsg.context.in
+
+messages_str = "/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/Altimeter.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/AttitudeCommand.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/Compass.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/ControllerState.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/HeadingCommand.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/HeightCommand.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/MotorCommand.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/MotorPWM.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/MotorStatus.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/PositionXYCommand.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/RawImu.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/RawMagnetic.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/RawRC.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/RC.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/RuddersCommand.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/ServoCommand.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/Supply.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/ThrustCommand.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/VelocityXYCommand.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/VelocityZCommand.msg;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg/YawrateCommand.msg"
+services_str = ""
+pkg_name = "hector_uav_msgs"
+dependencies_str = "std_msgs"
+langs = "gencpp;geneus;genlisp;gennodejs;genpy"
+dep_include_paths_str = "hector_uav_msgs;/home/kristoffer/uavWs/src/hector_quadrotor/hector_uav_msgs/msg;std_msgs;/opt/ros/kinetic/share/std_msgs/cmake/../msg"
+PYTHON_EXECUTABLE = "/usr/bin/python"
+package_has_static_sources = '' == 'TRUE'
+genmsg_check_deps_script = "/opt/ros/kinetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py"
